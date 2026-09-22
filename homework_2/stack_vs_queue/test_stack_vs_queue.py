@@ -1,5 +1,4 @@
-import pytest
-from stack_vs_queue import Stack, Queue
+from homework_2.stack_vs_queue.stack_vs_queue import Stack, Queue
 
 
 # ========== ТЕСТЫ ДЛЯ СТЕКА ==========
